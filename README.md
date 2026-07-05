@@ -144,9 +144,7 @@ bands (`Rel_Delta … Rel_Gamma`); this is configurable via `cfg.target_feats`.
 
 Only the de-identified 10-subject example dataset (a subset of the discovery
 cohort, with subject IDs relabeled `Sub01…Sub10`) is distributed here so that
-the code can be run out of the box. The full datasets are available from the
-corresponding authors on reasonable request, subject to the study's
-data-sharing and ethics agreements.
+the code can be run out of the box.
 
 ## License
 
