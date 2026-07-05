@@ -140,11 +140,8 @@ bands (`Rel_Delta … Rel_Gamma`); this is configurable via `cfg.target_feats`.
 
 ---
 
-## Data availability
-
-Only the de-identified 10-subject example dataset (a subset of the discovery
-cohort, with subject IDs relabeled `Sub01…Sub10`) is distributed here so that
-the code can be run out of the box.
+## Data statement. 
+No real participant data are shared here, as the study data are not yet public. The files in example_data/ are simulated (identical structure and variable names to the study, but randomly generated values) and are provided only to make the code runnable; they do not reproduce the paper's results. Real data are available from the corresponding authors on reasonable request, subject to ethics and data-sharing agreements.
 
 ## License
 
