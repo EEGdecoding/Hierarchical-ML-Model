@@ -16,6 +16,8 @@ theta-burst stimulation (acTBS)** in adolescent depression.
 
 ## Model overview
 
+![Hierarchical model overview](src/Model.png)
+
 The outcome is the **percentage improvement in HAMD** after treatment
 (`pctHAMD`). The signature is built from two levels of resting-state EEG
 features, and every hyper-parameter is chosen inside a **nested
